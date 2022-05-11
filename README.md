@@ -1,5 +1,6 @@
 # Translator-New
 A rebuilt translator using google translate engine !!!
+Now with transparency, menu bar,... and more!
 
 # Clone this repository
 `git clone https://github.com/anhduc261209/Translator-New.git`
